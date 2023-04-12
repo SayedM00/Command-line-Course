@@ -1,0 +1,30 @@
+=========> Echo <=========
+
+1 - Echo Can print:
+
+echo name
+
+2 - Echo can create new file with content:
+
+echo content > filename
+
+* if the file is exist this simple > will make the new content overright on the current content
+
+3- Echo can add additional content on the current one
+
+echo content >> filename 
+
+
+=========> Cat <==========
+
+1 - Cat can display all the file content:
+
+cat * 
+
+2 - Cat can display any file content or files together
+
+cat filename  or
+cat filename filename
+
+3 - Cat can act like echo just try it
+

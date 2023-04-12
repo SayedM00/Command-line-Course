@@ -1,0 +1,10 @@
+======> grep <=====
+
+can search about texts inside many of files 
+
+((grep --help)) to know more
+
+
+syntax :
+
+grep -r text 

@@ -1,0 +1,7 @@
+Shell: command line interpreter 
+
+terminal: text input/output environment
+
+CMD: is the original shell for the Microsoft DOS operating system 
+
+PowerShell = Afer CMD strong than CMD.

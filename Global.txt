@@ -1,0 +1,62 @@
+====> file filename <==== 
+
+display type of fine.
+
+---------------------------------
+
+====> command /? <====
+
+display manual of your command
+
+---------------------------------
+
+
+====> tree /a <====
+
+display structure of your dircetories
+
+---------------------------------
+
+====> alais t=test <=====
+
+make shorthand to your commad 
+
+---------------------------------
+
+====> command && command <====
+
+can use 2 commands in one time by use && between them
+
+---------------------------------
+
+====> ipconfig <====
+
+display your ip
+
+---------------------------------
+
+====> systeminfo <====
+
+display system information
+
+---------------------------------
+
+====> command > finename <====
+
+
+you can use command and print the result in the file
+
+exp: 
+
+systeminfo > test.txt
+
+---------------------------------
+
+====> command | clip <====
+
+can copy the result and put it in the clip board 
+
+---------------------------------
+
+
+ss64.com that website has all commands

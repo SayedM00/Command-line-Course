@@ -1,0 +1,31 @@
+=====> mv or move <=====
+
+1- rename the file 
+
+mv the_current_file_name new_file_name
+
+2- move forward or backward or put it inside any file
+
+mv the_file_name the_choosezen file name (forward)
+mv the_file_name ../ (backward)
+
+
+=====> rename <=====
+
+rename the file 
+
+mv the_current_file_name new_file_name													(((((((( command --help to see all it's details ))))))))))
+
+
+=====> cp <=====  
+
+copy the file
+
+cp -r file_name new_file_name
+
+
+=====> rm <=====  
+
+remove the file
+
+rm -r file_name 
